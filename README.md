@@ -45,7 +45,3 @@
 
 ###
 
-<br clear="both">
-
-![Snake animation](https://github.com/{{avinashbandam}}/{{avinashbandam}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
-###
