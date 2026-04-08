@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Avinash Bandam and <br>I'm a Full-Stack Web Developer, from Hyderabad, Telangana</h2>
+<h2 align="center">Hi 👋! I'm Avinash Bandam and <br>I'm a Full-Stack Web Developer, from Hyderabad</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avinashbandam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
